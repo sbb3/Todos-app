@@ -29,7 +29,7 @@ A simple To Do List web application, it allows users to create, update and delet
 
 ## Login Flow Chart, ER Diagram
 
-- `https://www.figma.com/file/t1iOhdImWYMsOAvONOIdEf/Todos-app?type=design&node-id=2103-34&mode=design`
+- `https://www.figma.com/file/4ixfEB23mat36sDraEENbo/Todos-App?type=design`
 
 ## How to run
 
